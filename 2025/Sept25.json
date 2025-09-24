@@ -1,0 +1,261 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "Work Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects",
+    "awards": "Leadership and Achievements "
+  },
+  "basics": {
+    "name": "Sarang Atul Kurani",
+    "email": "sarang.kurani@gmail.com",
+    "phone": "+91 7715054759",
+    "website": "",
+    "location": {
+      "address": "Mumbai, India"
+    }
+  },
+  "education": [
+    {
+      "institution": "NIIT University",
+      "location": "Neemrana, Rajasthan",
+      "area": "Computer Science",
+      "startDate": "July 2013",
+      "gpa": "7.8",
+      "studyType": "B. Tech",
+      "endDate": "July 2017"
+    }
+  ],
+  "work": [
+    {
+      "company": "IBM India Private Limited",
+      "website": "",
+      "endDate": "July 2017",
+      "highlights": [
+        "Trained IBM Watson through the tools provided with Watson Conversation Service, Watson Knowledge Studio, and Watson Discovery Service.",
+        "Successfully designed part of front end for a WCS Chatbot",
+        "Clustered text snippets with limited success using k-means clustering.",
+        "Scraped forums using python and JavaScript to extract relevant information to train Watson Discovery Service."
+      ],
+      "position": "Data Science Intern",
+      "location": "Bengaluru, KA, India",
+      "startDate": "February 2017"
+    },
+    {
+      "highlights": [
+        "Clean, transform and use client data to deliver insights. Develop applications using such data to deliver value"
+      ],
+      "company": "IBM India Private Limited",
+      "position": "Data Scientist / Developer",
+      "location": "Bengaluru, KA, India",
+      "startDate": "July 2017",
+      "endDate": "December 2021"
+    },
+    {
+      "highlights": [
+        "Front-End Heavy Full-Stack and Custom Visualization Developer "
+      ],
+      "company": "Capgemini Technology Services, India",
+      "position": "Senior Consultant / Developer",
+      "location": "Mumbai, MH, India",
+      "startDate": "August, 2022",
+      "endDate": "Present"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Typescript",
+        "JavaScript",
+        "Java",
+        null
+      ]
+    },
+    {
+      "keywords": [
+        "Angular 2+",
+        "node.js",
+        "Bootstrap",
+        "RabbitMQ",
+        "Kafka",
+        "D3.js",
+        "AngularJS"
+      ],
+      "name": "Web Development"
+    },
+    {
+      "keywords": [
+        "Watson Assistant (formerly WCS)",
+        "Watson Discovery ",
+        "Cognos Analytics ",
+        null
+      ],
+      "name": "Data Science - IBM Watson"
+    },
+    {
+      "keywords": [
+        "MongoDB (with Mongoose)",
+        "Cloudant",
+        "IBM DB2",
+        "MySQL",
+        "Cassandra"
+      ],
+      "name": "Databases"
+    },
+    {
+      "keywords": [
+        "IBM Cloud",
+        "AWS (Basics)"
+      ],
+      "name": "Cloud"
+    },
+    {
+      "keywords": [
+        "Purecloud Architect",
+        ""
+      ],
+      "name": "Genesys Purecloud"
+    },
+    {
+      "keywords": [
+        "Docker, Kubernetes ",
+        "Drone CI,  Rancher",
+        "ConfigMaps for storage"
+      ],
+      "name": "CI/CD"
+    },
+    {
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "description": "Create a real-time AI based solution for a major automobile manufacturer to serve knowledge documents to Contact Center Agents based on on-going conversation with customer.  I developed the UI and Node.js back end to consume messages from RabbitMQ and route to appropriate desktop. Document titles would show up on the side bar, and on click, would open the entire document in a tabbed interface. UI was made with AngularJS and UIBootstrap. Socket.io was used to communicate between browser and Node.js server over HTTPS",
+      "keywords": [
+        "Node.js",
+        "RabbitMQ",
+        "AngularJS",
+        "Watson Discovery",
+        "Watson Assistant"
+      ],
+      "name": "Cognitve Call Center Assist"
+    },
+    {
+      "keywords": [
+        "HTML, CSS, JS",
+        "IBM Cloud Functions",
+        "Watson Assistant",
+        "ServiceNow"
+      ],
+      "name": "Winds Of Change Chatbot",
+      "description": "Proof of Concept to demonstrate integration between Watson Assistant and ServiceNow. Wrote cloud functions on the IBM Cloud Functions platform to perform various integrations with ServiceNow, including fetching Job Role Data, Creating new positions, fetching managed employees for managers, formatting results and integrating with Watson Assistant"
+    },
+    {
+      "keywords": [
+        "Genesys Purecloud",
+        "Purecloud Architect",
+        null
+      ],
+      "name": "Digital Transformation with Genesys Purecloud",
+      "description": "Helping a major consumer appliance manufacturer with their digital transformation across various fronts, namely handling consumer interactions, collecting data and performing analytics, enabling smoother consumer experience both online and on the phone"
+    },
+    {
+      "keywords": [
+        "Angular 2+",
+        "ngBootstrap CSS and JS",
+        "D3.js"
+      ],
+      "name": "File Tracking Application",
+      "description": "Front-End Application for an IoT Company in the maritime domain to track and visualize sensor generated files across different stages of processing. Application was developed using Angular 2+, Bootstrap, and  D3.js for visualization."
+    },
+    {
+      "keywords": [
+        "Angular 2+",
+        "D3.js",
+        "Carbon Design System",
+        "Node.js",
+        "MongoDB",
+        "ConfigMaps"
+      ],
+      "name": "Sensor Configuration Visualizer",
+      "description": "Full-Stack application for an IoT Company in the maritime domain to visualize sensor configuration changes across time. Application was developed using Angular 2+, Carbon Design System, and  D3.js for full-custom visualization inspired by ObservableHQ. Backend developed with Node.js as orchestration layer and MongoDB to store configurations."
+    },
+    {
+      "keywords": [
+        "Angular 2+",
+        "Angular Material",
+        "Apache Kafka",
+        "NestJS",
+        "Jira ServiceDesk API",
+        "MySQL",
+        "Cassandra",
+        "ConfigMaps"
+      ],
+      "name": "Data Pipeline Resolution With Rich Jira API, Automation and Email Integration",
+      "description": "Full-Stack application for an IoT Company in the maritime domain to improve resolution time and track accountability for data availability issues. Jira wrapper created to manage costs by enabling multiple users across one paid account. Front-End Application was developed using Angular 2+, Angular Material. Backend developed with Nest.js (opinionated Node.js framework) as orchestration layer and MySQL to store configurations. 2 microservices, one for ticket creation and one for automated pre-checks to populate certain fields and email alerts. Complete use-case specific Jira workflow created, and Jira Automations also configured for certain ticket updates."
+    },
+    {
+      "keywords": [
+        "Angular 2+",
+        "Carbon Design System"
+      ],
+      "name": "Platform Configuration with Complex Client State Management and Checkpoints",
+      "description": "Front-End application for an IoT Company in the maritime domain to manage configuration of Ocean Platforms. Application was developed using Angular 2+, Carbon Design System. Error and loading states, race conditions, selective auto roll-backs on failed updates implemented. Client-side API calls optimized by tracking incremental changes to state."
+    },
+    {
+      "keywords": [
+        "Angular 2+",
+        "Angular CLI",
+        "source-map-explorer"
+      ],
+      "name": "Angular App Upgrades and Optimizations.",
+      "description": "Updated applications across multiple versions of Angular to fix security issues and deprecated packages. Deprecated packages replaced with lighter, more secure alternatives. Bundle sizes reduced by 80%, and performance improved using lazy loading, complexity reduction, library replacements, good import practices etc."
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Practitioner CLF-C02",
+      "date": "2024-2027",
+      "awarder": "AWS",
+      "summary": "Studied for and attained the AWS CP certification."
+    },
+    {
+      "title": "Workshops",
+      "date": "2023-2025",
+      "awarder": "Personal, Mumbai",
+      "summary": "Held workshops for mentoring junior web-developers in my team. Made them aware of best practices like detecting memory leaks, retrying APIs, lazy-loading, bundle size optimization."
+    },
+    {
+      "title": "Mentorship",
+      "date": "2019-2021",
+      "awarder": "Personal, Bengaluru",
+      "summary": "Took it upon myself to mentor interns new to the industry, and get them up to a common level of competence. Taught basics of version control, project architecture, IBM Cloud."
+    },
+    {
+      "title": "Scrum  Master (Temporary)",
+      "date": "November, 2021",
+      "awarder": "Digital Transformation Project",
+      "summary": "Managed an agile  team of 8 for 2 sprints. Facilitated work, planned, created and distributed tasks using JIRA"
+    },
+    {
+      "title": "Table Tennis Coaching and Community Building",
+      "date": "2017 - 2021",
+      "awarder": "Personal, Bengaluru",
+      "summary": "Coached passionate beginners and amateurs, and held and managed various Table Tennis tournaments. Built and held together a vibrant and active community of  table tennis players in Bengaluru"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
