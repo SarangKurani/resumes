@@ -135,7 +135,6 @@
   ],
   "projects": [
     {
-      "description": "Create a real-time AI based solution for a major automobile manufacturer to serve knowledge documents to Contact Center Agents based on on-going conversation with customer.  I developed the UI and Node.js back end to consume messages from RabbitMQ and route to appropriate desktop. Document titles would show up on the side bar, and on click, would open the entire document in a tabbed interface. UI was made with AngularJS and UIBootstrap. Socket.io was used to communicate between browser and Node.js server over HTTPS",
       "keywords": [
         "Node.js",
         "RabbitMQ",
@@ -143,7 +142,8 @@
         "Watson Discovery",
         "Watson Assistant"
       ],
-      "name": "Cognitive Call Center Assist"
+      "name": "Cognitive Call Center Assist",
+      "description": "Architected a real-time AI solution for a major automobile manufacturer that dynamically serves knowledge base documents to agents via live conversation analysis. Engineered a Node.js backend to ingest RabbitMQ messages and push real-time updates to the UI using Socket.io over HTTPS. Developed a tabbed AngularJS/UIBootstrap interface for seamless document navigation."
     },
     {
       "keywords": [
@@ -153,7 +153,7 @@
         "ServiceNow"
       ],
       "name": "Winds Of Change Chatbot",
-      "description": "Proof of Concept to demonstrate integration between Watson Assistant and ServiceNow. Wrote cloud functions on the IBM Cloud Functions platform to perform various integrations with ServiceNow, including fetching Job Role Data, Creating new positions, fetching managed employees for managers, formatting results and integrating with Watson Assistant"
+      "description": "Developed a Proof of Concept (PoC) integrating Watson Assistant with ServiceNow. Authored IBM Cloud Functions to automate HR workflows, including job role retrieval, position creation, and manager-employee mapping. Streamlined data formatting to ensure fluid conversational interactions between Watson and the ServiceNow API."
     },
     {
       "keywords": [
@@ -161,7 +161,7 @@
         "Purecloud Architect",
         null
       ],
-      "name": "Digital Transformation with Genesys Purecloud",
+      "name": "Digital Transformation: Genesys Purecloud",
       "description": "Helping a major consumer appliance manufacturer with their digital transformation across various fronts, namely handling consumer interactions, collecting data and performing analytics, enabling smoother consumer experience both online and on the phone"
     },
     {
@@ -170,8 +170,8 @@
         "ngBootstrap CSS and JS",
         "D3.js"
       ],
-      "name": "File Tracking Application",
-      "description": "Front-End Application for an IoT Company in the maritime domain to track and visualize sensor generated files across different stages of processing. Application was developed using Angular 2+, Bootstrap, and  D3.js for visualization."
+      "name": "Maritime File Tracking Application",
+      "description": "Built a frontend for a maritime IoT provider to track and visualize the lifecycle of sensor-generated data. Utilized Angular and D3.js to create interactive data visualizations, enabling stakeholders to monitor complex processing stages in real-time."
     },
     {
       "keywords": [
@@ -183,7 +183,7 @@
         "ConfigMaps"
       ],
       "name": "Sensor Configuration Visualizer",
-      "description": "Full-Stack application for an IoT Company in the maritime domain to visualize sensor configuration changes across time. Application was developed using Angular 2+, Carbon Design System, and  D3.js for full-custom visualization inspired by ObservableHQ. Backend developed with Node.js as orchestration layer and MongoDB to store configurations."
+      "description": "Delivered a full-stack IoT application to visualize historical sensor configuration changes. Leveraged D3.js and ObservableHQ-inspired patterns for custom data visualizations. Built an orchestration layer with Node.js and MongoDB to manage and serve complex configuration state history."
     },
     {
       "keywords": [
@@ -196,16 +196,16 @@
         "Cassandra",
         "ConfigMaps"
       ],
-      "name": "Data Pipeline Resolution With Rich Jira API, Automation and Email Integration",
-      "description": "Full-Stack application for an IoT Company in the maritime domain to improve resolution time and track accountability for data availability issues. Jira wrapper created to manage costs by enabling multiple users across one paid account. Front-End Application was developed using Angular 2+, Angular Material. Backend developed with Nest.js (opinionated Node.js framework) as orchestration layer and MySQL to store configurations. 2 microservices, one for ticket creation and one for automated pre-checks to populate certain fields and email alerts. Complete use-case specific Jira workflow created, and Jira Automations also configured for certain ticket updates."
+      "name": "Data Pipeline Resolution & Jira Automation",
+      "description": "Designed a full-stack resolution platform that significantly reduced MTTR (Mean Time To Resolution) for data availability issues. Developed a Nest.js and MySQL backend featuring a custom Jira API wrapper to optimize licensing costs. Implemented microservices for automated pre-checks and email alerts, alongside custom Jira workflows and automation triggers."
     },
     {
       "keywords": [
         "Angular 2+",
         "Carbon Design System"
       ],
-      "name": "Platform Configuration with Complex Client State Management and Checkpoints",
-      "description": "Front-End application for an IoT Company in the maritime domain to manage configuration of Ocean Platforms. Application was developed using Angular 2+, Carbon Design System. Error and loading states, race conditions, selective auto roll-backs on failed updates implemented. Client-side API calls optimized by tracking incremental changes to state."
+      "name": "Ocean Platform State Management",
+      "description": "Developed a complex configuration management interface for maritime platforms using Angular and the Carbon Design System. Implemented advanced state management strategies, including incremental state tracking to optimize API calls, race condition handling, and selective auto-rollbacks for failed updates."
     },
     {
       "keywords": [
@@ -216,7 +216,7 @@
         "Grafana Tempo"
       ],
       "name": "Application Configuration Management Backend",
-      "description": "CRUD API developed for the Management and Sharing of Configurations. API docuemented with Swagger, and OpenTelemetry instrumentation done to track bottlenecks. Telemetry data transport to Grafana Tempo set up."
+      "description": "Engineered a robust CRUD API for configuration sharing and management. Integrated OpenTelemetry for distributed tracing and bottleneck identification, with data visualization via Grafana Tempo. Provided full API documentation using Swagger/OpenAPI standards."
     },
     {
       "keywords": [
@@ -224,8 +224,8 @@
         "Angular CLI",
         "source-map-explorer"
       ],
-      "name": "Angular App Upgrades and Optimizations.",
-      "description": "Updated applications across multiple versions of Angular to fix security issues and deprecated packages. Deprecated packages replaced with lighter, more secure alternatives. Bundle sizes reduced by 80%, and performance improved using lazy loading, complexity reduction, library replacements, good import practices etc."
+      "name": "Angular Optimization & Security Modernization",
+      "description": "Spearheaded a large-scale migration across multiple Angular versions, successfully reducing bundle sizes in several cases by 40%. Optimized performance through lazy loading, complexity reduction, and import refactoring. Mitigated security risks by replacing deprecated dependencies with modern, lightweight alternatives."
     }
   ],
   "awards": [

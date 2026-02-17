@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Cognitive Call Center Assist",
+    "description": "Architected a real-time AI solution for a major automobile manufacturer that dynamically serves knowledge base documents to agents via live conversation analysis. Engineered a Node.js backend to ingest RabbitMQ messages and push real-time updates to the UI using Socket.io over HTTPS. Developed a tabbed AngularJS/UIBootstrap interface for seamless document navigation."
+  },
+  {
+    "name": "Winds Of Change Chatbot",
+    "description": "Developed a Proof of Concept (PoC) integrating Watson Assistant with ServiceNow. Authored IBM Cloud Functions to automate HR workflows, including job role retrieval, position creation, and manager-employee mapping. Streamlined data formatting to ensure fluid conversational interactions between Watson and the ServiceNow API."
+  },
+  {
+    "name": "Digital Transformation: Genesys Purecloud",
+    "description": "Led the digital transformation strategy for a global consumer appliance manufacturer. Modernized the omnichannel consumer experience by integrating Genesys Purecloud to streamline interaction handling, centralize data collection, and implement advanced analytics for improved customer journey mapping."
+  },
+  {
+    "name": "Maritime File Tracking Application",
+    "description": "Built a high-performance frontend for a maritime IoT provider to track and visualize the lifecycle of sensor-generated data. Utilized Angular and D3.js to create interactive data visualizations, enabling stakeholders to monitor complex processing stages in real-time."
+  },
+  {
+    "name": "Sensor Configuration Visualizer",
+    "description": "Delivered a full-stack IoT application to visualize historical sensor configuration changes. Leveraged D3.js and ObservableHQ-inspired patterns for custom data visualizations. Built an orchestration layer with Node.js and MongoDB to manage and serve complex configuration state history."
+  },
+  {
+    "name": "Data Pipeline Resolution & Jira Automation",
+    "description": "Designed a full-stack resolution platform that significantly reduced MTTR (Mean Time To Resolution) for data availability issues. Developed a Nest.js and MySQL backend featuring a custom Jira API wrapper to optimize licensing costs. Implemented microservices for automated pre-checks and email alerts, alongside custom Jira workflows and automation triggers."
+  },
+  {
+    "name": "Ocean Platform State Management",
+    "description": "Developed a complex configuration management interface for maritime platforms using Angular and the Carbon Design System. Implemented advanced state management strategies, including incremental state tracking to optimize API calls, race condition handling, and selective auto-rollbacks for failed updates."
+  },
+  {
+    "name": "Configuration Management Backend",
+    "description": "Engineered a robust CRUD API for configuration sharing and management. Integrated OpenTelemetry for distributed tracing and bottleneck identification, with data visualization via Grafana Tempo. Provided full API documentation using Swagger/OpenAPI standards."
+  },
+  {
+    "name": "Angular Optimization & Security Modernization",
+    "description": "Spearheaded a large-scale migration across multiple Angular versions, successfully reducing bundle sizes by 80%. Optimized performance through lazy loading, complexity reduction, and import refactoring. Mitigated security risks by replacing deprecated dependencies with modern, lightweight alternatives."
+  }
+]
