@@ -249,7 +249,7 @@
     },
     {
       "title": "Workshops",
-      "date": "2023-2025",
+      "date": "2023-2026",
       "awarder": "Personal, Mumbai",
       "summary": "Held workshops for mentoring junior web-developers in my team. Made them aware of best practices like detecting memory leaks, retrying APIs, lazy-loading, bundle size optimization."
     },
