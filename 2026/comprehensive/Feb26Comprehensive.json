@@ -108,7 +108,7 @@
     {
       "keywords": [
         "IBM Cloud",
-        "AWS (Basics)"
+        "AWS"
       ],
       "name": "Cloud"
     },
@@ -229,6 +229,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "Team Lead",
+      "date": "December 2025 - February 2026",
+      "awarder": "Notification System Overhaul",
+      "summary": "Leading a lean team of 3 to overhaul the project wide notification system. Overseeing design, architecture, and code changes, and documenting everything along the way."
+    },
     {
       "title": "AWS Cloud Practitioner CLF-C02",
       "date": "2024-2027",
