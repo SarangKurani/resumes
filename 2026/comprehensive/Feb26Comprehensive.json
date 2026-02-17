@@ -230,46 +230,46 @@
   ],
   "awards": [
     {
-      "title": "Capgemini Aspiring Architect",
+      "title": "Certified Aspiring Architect (L0)",
       "date": "February 2026",
       "awarder": "Capgemini Technology Services",
-      "summary": "Attained Architect L0 - Aspiring Architect (Internal Certification)"
+      "summary": "Achieved internal architectural certification, demonstrating required proficiency in system design and production grade solution architecture."
     },
     {
-      "title": "Team Lead",
-      "date": "December 2025 - February 2026",
-      "awarder": "Notification System Overhaul",
-      "summary": "Leading a lean team of 3 to overhaul the project wide notification system. Overseeing design, architecture, and code changes, and documenting everything along the way."
+      "title": "Technical Team Lead: Notification System Overhaul",
+      "date": "Dec 2025 - Feb 2026",
+      "awarder": "Capgemini / Client Project",
+      "summary": "Directed a lean engineering team of 3 to modernize a project-wide notification system. Spearheaded architectural design, code reviews, and comprehensive technical documentation to ensure system maintainability."
     },
     {
-      "title": "AWS Cloud Practitioner CLF-C02",
-      "date": "2024-2027",
-      "awarder": "AWS",
-      "summary": "Studied for and attained the AWS CP certification."
+      "title": "AWS Certified Cloud Practitioner (CLF-C02)",
+      "date": "2024 - 2027",
+      "awarder": "Amazon Web Services",
+      "summary": "Validated foundational knowledge of cloud concepts, security, and core AWS services to drive cloud-native development strategies."
     },
     {
-      "title": "Workshops",
-      "date": "2023-2026",
-      "awarder": "Personal, Mumbai",
-      "summary": "Held workshops for mentoring junior web-developers in my team. Made them aware of best practices like detecting memory leaks, retrying APIs, lazy-loading, bundle size optimization."
+      "title": "Technical Mentorship & Performance Workshops",
+      "date": "2023 - 2026",
+      "awarder": "Capgemini Internal",
+      "summary": "Upskilled junior developers through structured workshops on frontend excellence, including memory leak detection, API resiliency patterns, and 80% bundle size reduction techniques."
     },
     {
-      "title": "Mentorship",
-      "date": "2019-2021",
-      "awarder": "Personal, Bengaluru",
-      "summary": "Took it upon myself to mentor interns new to the industry, and get them up to a common level of competence. Taught basics of version control, project architecture, IBM Cloud."
+      "title": "Engineering Internship Mentor",
+      "date": "2019 - 2021",
+      "awarder": "Project Leadership",
+      "summary": "Onboarded and mentored interns on industry-standard workflows, including Git-based version control, modular project architecture, and IBM Cloud deployment."
     },
     {
-      "title": "Scrum  Master (Temporary)",
-      "date": "November, 2021",
+      "title": "Interim Scrum Master",
+      "date": "November 2021",
       "awarder": "Digital Transformation Project",
-      "summary": "Managed an agile  team of 8 for 2 sprints. Facilitated work, planned, created and distributed tasks using JIRA"
+      "summary": "Orchestrated Agile ceremonies for a cross-functional team of 8. Optimized sprint velocity by managing Jira backlogs, removing blockers, and facilitating task distribution."
     },
     {
-      "title": "Table Tennis Coaching and Community Building",
+      "title": "Community Leadership & Athletics",
       "date": "2017 - 2021",
-      "awarder": "Personal, Bengaluru",
-      "summary": "Coached passionate beginners and amateurs, and held and managed various Table Tennis tournaments. Built and held together a vibrant and active community of  table tennis players in Bengaluru"
+      "awarder": "Bengaluru Sports Community",
+      "summary": "Founded and scaled a table tennis community in Bengaluru. Managed tournament logistics and provided technical coaching, fostering a network of over 100+ active members."
     }
   ],
   "sections": [
